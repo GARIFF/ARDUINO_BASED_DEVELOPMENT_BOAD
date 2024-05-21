@@ -71,6 +71,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GIWAWGEC
 
 [Document2]
+DocumentPath=Sheet2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FKTKGKAO
+
+[Document3]
 DocumentPath=LIB\OSCILL_16MHz.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCOCMBDX
 
-[Document3]
+[Document4]
 DocumentPath=LIB\OSCILL_16MHz.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDVVZMQE
 
-[Document4]
+[Document5]
 DocumentPath=LIB\USB-C_CONN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOMGYRWT
 
-[Document5]
+[Document6]
 DocumentPath=LIB\USB-C_CONN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYUOOUWX
 
-[Document6]
+[Document7]
 DocumentPath=LIB\5V_REG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNCDICPN
 
-[Document7]
+[Document8]
 DocumentPath=LIB\5V_REG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSMHAAEF
 
-[Document8]
+[Document9]
 DocumentPath=LIB\PULLUP_SWITCH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AOQZJDDZ
 
-[Document9]
+[Document10]
 DocumentPath=LIB\PULLUP_SWITCH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQIOTOIB
 
-[Document10]
+[Document11]
 DocumentPath=LIB\8-pin_HEADER.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMHGFUUO
 
-[Document11]
+[Document12]
 DocumentPath=LIB\8-pin_HEADER.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VXIAVXOB
 
-[Document12]
+[Document13]
 DocumentPath=LIB\OSCILL_12MHz.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJLGVZKL
 
-[Document13]
+[Document14]
 DocumentPath=LIB\OSCILL_12MHz.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVLUNHYC
 
-[Document14]
+[Document15]
 DocumentPath=LIB\USB_INTERFACE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMAQAURM
 
-[Document15]
+[Document16]
 DocumentPath=LIB\USB_INTERFACE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDIHXMCS
 
-[Document16]
+[Document17]
 DocumentPath=LIB\FUSE_50A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSRPXIDG
 
-[Document17]
+[Document18]
 DocumentPath=LIB\FUSE_50A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UCXCLUSC
 
-[Document18]
+[Document19]
 DocumentPath=LIB\LED_RED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DAOSOMDT
 
-[Document19]
+[Document20]
 DocumentPath=LIB\LED_RED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTNUGZEE
 
-[Document20]
+[Document21]
 DocumentPath=LIB\LED_GREEN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNHXWVVA
 
-[Document21]
+[Document22]
 DocumentPath=LIB\LED_GREEN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -409,23 +426,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJEMXQJK
-
-[Document22]
-DocumentPath=Sheet2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FKTKGKAO
 
 [Document23]
 DocumentPath=LIB\ATMEGA328P-AU.PcbLib
